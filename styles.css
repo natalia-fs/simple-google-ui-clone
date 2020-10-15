@@ -146,6 +146,13 @@ body{
 }
 .footer__links a{
     text-decoration: none;
+    color: #5F6368;
+}
+.footer__links a:visited{
+    text-decoration: none;
+}
+.footer__links a:active{
+    text-decoration: none;
 }
 .footer__links a:not(:first-child){
     margin-left: 27px;
